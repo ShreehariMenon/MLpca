@@ -27,8 +27,7 @@ PCA helps in:
 - Reducing noise
 - Simplifying ML models
 
-## Watch the demo
-https://drive.google.com/file/d/1bXNUOgQAnk0r4QEDi2ldzRYYPUoUh1n4/view?usp=sharing
+[▶️ Watch the demo] https://drive.google.com/file/d/1bXNUOgQAnk0r4QEDi2ldzRYYPUoUh1n4/view?usp=sharing
 
 ## 🚀 How to Run the App
 
